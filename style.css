@@ -1,0 +1,20 @@
+ul {
+    display: inline;
+    padding: 100px, 35px;
+}
+
+header {
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+}
+
+#3pix {
+    float: left;
+}
+
+img #3pix {
+    width: 100px;
+}
